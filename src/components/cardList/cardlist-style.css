@@ -1,0 +1,15 @@
+.container-fluid {
+    width:100%;
+    display: flex;
+    background: radial-gradient(#5e2b63,#fbe7fc);
+}
+
+.card-list {
+    width :80%;
+    margin: 0 auto;
+    display: grid;
+    justify-content: center;     
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+    grid-gap: 20px;
+    padding: 20px;
+}

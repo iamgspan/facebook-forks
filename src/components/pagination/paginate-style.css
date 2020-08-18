@@ -1,0 +1,26 @@
+.paginate {
+    justify-content: center;
+    display: flex;
+    background: radial-gradient(#dff7c4, #999696);
+}
+
+.btn-page{
+    border: 2px solid #042330;
+    border-radius: 5px;
+    background:radial-gradient(#efefef, #744c75);
+    color: #042330;
+    padding: 10px 10px;
+    font-size: 18px;
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    height: 20px;
+    width: 50px;
+    justify-content: center;
+    text-align: center;
+    font-weight: 500;
+    margin: 5px;
+}
